@@ -1,3 +1,5 @@
 gdb/california/cdl/** filter=lfs diff=lfs merge=lfs -crlf
 gdb/conterminous_us/cdl/** filter=lfs diff=lfs merge=lfs -crlf
 gdb/conterminous_us/quinn/** filter=lfs diff=lfs merge=lfs -crlf
+**/cell/* binary
+null binary
